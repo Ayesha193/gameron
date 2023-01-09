@@ -1,0 +1,12 @@
+{
+  "name": "gamics-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "@uauth/js": "^2.4.0"
+  }
+}
