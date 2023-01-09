@@ -2,7 +2,10 @@
 
 ### Demo Screeshots
 
-![Gamics Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![image](https://user-images.githubusercontent.com/122323940/211429099-d2282182-c3d0-4ebe-b51f-f133e23804b6.png)
+
+![image](https://user-images.githubusercontent.com/122323940/211429230-be4e2242-b17c-41bd-8cc1-0c2f789d1d35.png)
+
 
 ### Prerequisites
 
